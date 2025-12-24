@@ -36,7 +36,7 @@ My work focuses on how planning, sustainability and governance shape urban life.
   Independent project developing an ESG-based evaluation framework for urban riverfront interventions.  
   The work integrates environmental, social, and governance indicators with spatial analysis, benchmarking, and probabilistic validation for a Tier-II Indian city context.  
 
-[View project report (PDF)]([ESG_Assessment_Framework.pdf])
+[View project report (PDF)](ESG_Assessment_Framework.pdf)
 
 - Incentive FSI and Spatial Equity in Indian Metropolises
 - District Development Plan – Amritsar
