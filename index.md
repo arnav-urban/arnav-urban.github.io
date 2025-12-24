@@ -16,6 +16,10 @@ My work focuses on how planning, sustainability and governance shape urban life.
 - **[The Great Indian Regularisation Paradox](regularisation-welfare-to-asset.html)**  
   When legal recognition becomes a gateway to dispossession
 
+- **[Rent Freeze Revolution](rent-freeze-revolution.html)**  
+  Could Delhi take a page from Zohran Mamdani’s playbook?
+
+
 ---
 
 ## Projects
