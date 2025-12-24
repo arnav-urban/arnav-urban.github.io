@@ -21,6 +21,15 @@ My work focuses on how planning, sustainability and governance shape urban life.
 
 
 ---
+## Academic Work
+
+- **Regularisation as Accumulation by Dispossession in Neoliberal Times**  
+  *Undergraduate Dissertation, Bachelor of Planning (2025)*  
+  A critical examination of regularisation in Delhi’s unauthorised colonies, arguing that formalisation often operates as a juridical pathway to market-led displacement.  
+
+[Download dissertation (PDF)](arnav_dissertation_regularisation_delhi_2025.pdf)
+
+---
 
 ## Projects
 - Judicial Trajectory of Informal Housing (Dissertation)
