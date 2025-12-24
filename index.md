@@ -9,9 +9,9 @@ My work focuses on how planning, sustainability and governance shape urban life.
 ---
 
 ## Blogs
-- **Displacement Without Demolition**  
+- **[Displacement Without Demolition](displacement-without-demolition)**  
   The legal making of India’s urban crisis  
-  → Read on Substack
+  → Also on Substack
 
 - **Regularisation: From Welfare to Asset-Making**  
   Planning, informality, and political economy
