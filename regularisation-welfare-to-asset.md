@@ -1,3 +1,6 @@
+# The Great Indian Regularisation Paradox  
+### When Legal Recognition Becomes a Gateway to Dispossession
+
 ## Overview
 
 In Delhi’s unauthorised colonies, regularisation is often framed as a moment of arrival — a promise of legality, dignity, and security for residents who have lived for decades on the margins of formal planning. Provisional certificates are distributed, photographs are taken, and the language of rights enters everyday conversations.
