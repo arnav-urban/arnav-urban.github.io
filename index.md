@@ -13,8 +13,8 @@ My work focuses on how planning, sustainability and governance shape urban life.
   The legal making of India’s urban crisis  
   → Also on Substack
 
-- **Regularisation: From Welfare to Asset-Making**  
-  Planning, informality, and political economy
+- **[The Great Indian Regularisation Paradox](regularisation-welfare-to-asset.html)**  
+  When legal recognition becomes a gateway to dispossession
 
 ---
 
