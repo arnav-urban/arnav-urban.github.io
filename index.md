@@ -30,7 +30,7 @@ My work focuses on how planning, sustainability and governance shape urban life.
 
 ---
 
-## Projects
+## Research/Projects
 - **ESG Assessment Framework for Dhansiri Riverfront Rejuvenation, Greater Dimapur 2047**  
   Independent project developing an ESG-based evaluation framework for urban riverfront interventions.  
   The work integrates environmental, social, and governance indicators with spatial analysis, benchmarking, and probabilistic validation for a Tier-II Indian city context.  
