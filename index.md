@@ -42,10 +42,9 @@ The paper analyses how legalisation, framed as welfare, can function as a market
 [Discussion & feedback (GitHub Issues)](https://github.com/arnav-urban/arnav-urban.github.io/issues/1)
 
 - **Prestige vs. Services: How Bureaucratic Incentives Shape Urban Project Prioritization in India**
-
 This repository hosts the synopsis for an ongoing research paper examining why Indian cities consistently prioritise high-visibility, capital-intensive infrastructure projects over citizen-demanded essential services such as road maintenance, drainage, and sewerage.
-
 The study adopts a comparative institutional approach, using Delhi and Pune to analyse how bureaucratic incentive structures, institutional fragmentation, and media visibility influence municipal budget allocation decisions. Drawing on public choice theory and urban governance literature, the research treats “prestige bias” as an outcome of institutional design rather than resource scarcity or corruption alone.
+
 [View synopsis](Synopsis_prestige.pdf)
 
 **Status:** Research in progress  
