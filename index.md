@@ -4,8 +4,8 @@ Urban Planning | Sustainability | Policy
 
 ## About
 I write on urban planning, sustainabiliy, displacement, and institutional decision-making in the Global South.  
-My work focuses on how planning, sustainability and governance shape urban life.
-
+My work focuses on how planning, sustainability and governance shape urban life. Arnav is an undergraduate physical planning student from School of Planning and Architecture Delhi, with interests spanning planning theory and practice, urban governance, land policy, sustainability in the Global South. 
+This GitHub repository hosts research projects, working papers, and analytical work developed through academic coursework, dissertation research, and independent inquiry.
 ---
 
 ## Blogs
