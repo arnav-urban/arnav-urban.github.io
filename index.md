@@ -37,6 +37,7 @@ The work integrates environmental, social, and governance indicators with spatia
 - **Working Paper,2025: Juridical Accumulation by Dispossession: Regularisation, Law, and Urban Informality in Delhi**  
 Working paper developed from undergraduate dissertation research examining regularisation in Delhi’s unauthorised colonies.  
 The paper analyses how legalisation, framed as welfare, can function as a market-making process, producing market-mediated dispossession through legality, pricing, and institutional design rather than direct eviction.
+
 [View working paper (PDF)](/Working_Paper_v1.0.pdf)  
 [Discussion & feedback (GitHub Issues)](https://github.com/arnav-urban/arnav-urban.github.io/issues/1)
 
@@ -46,6 +47,7 @@ This repository hosts the synopsis for an ongoing research paper examining why I
 
 The study adopts a comparative institutional approach, using Delhi and Pune to analyse how bureaucratic incentive structures, institutional fragmentation, and media visibility influence municipal budget allocation decisions. Drawing on public choice theory and urban governance literature, the research treats “prestige bias” as an outcome of institutional design rather than resource scarcity or corruption alone.
 [View synopsis](Synopsis_prestige.pdf)
+
 **Status:** Research in progress  
 **Current stage:** Synopsis completed, data analysis ongoing  
 
