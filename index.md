@@ -36,6 +36,12 @@ This GitHub repository hosts research projects, working papers, and analytical w
 
 [View project report (PDF)](/ESG_Assessment_Framework.pdf)
 
+**Working Paper,2025: Juridical Accumulation by Dispossession: Regularisation, Law, and Urban Informality in Delhi**  
+Working paper developed from undergraduate dissertation research examining regularisation in Delhi’s unauthorised colonies.  
+The paper analyses how legalisation, framed as welfare, can function as a market-making process, producing market-mediated dispossession through legality, pricing, and institutional design rather than direct eviction.
+
+[View working paper (PDF)](Singh_Juridical_Accumulation_Working_Paper_v1.0.pdf)  
+[Discussion & feedback (GitHub Issues)](LINK_TO_ISSUE_HERE)
 
 - Incentive FSI and Spatial Equity in Indian Metropolises
 - District Development Plan – Amritsar
