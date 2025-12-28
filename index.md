@@ -41,10 +41,9 @@ Working paper developed from undergraduate dissertation research examining regul
 The paper analyses how legalisation, framed as welfare, can function as a market-making process, producing market-mediated dispossession through legality, pricing, and institutional design rather than direct eviction.
 
 [View working paper (PDF)](/Working_Paper_v1.0.pdf)  
-[Discussion & feedback (GitHub Issues)](LINK_TO_ISSUE_HERE)
+[Discussion & feedback (GitHub Issues)](https://github.com/arnav-urban/arnav-urban.github.io/issues/1)
 
-- Incentive FSI and Spatial Equity in Indian Metropolises
-- District Development Plan – Amritsar
+
 
 ---
 
